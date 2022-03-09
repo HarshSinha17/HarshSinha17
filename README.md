@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">I'm a Front-end Web Developer from India :)</h3>
+<h1 align="left">👋</h1>
 
+![Hey! 👋I am Harsh,there's an error loading the image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hqfwnfhzb36r4lljysza.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsinha17&label=Profile%20views&color=0e75b6&style=flat" alt="harshsinha17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshsinha17&theme=radical" alt="harshsinha17" /></a> </p>
