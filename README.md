@@ -29,6 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshsinha17&show_icons=true&locale=en&theme=radical" alt="harshsinha17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshsinha17&theme=radical" alt="harshsinha17" /></p>
-#### :books: Recent Blog Posts  
+<h3 align="left"> :books: Recent Blog Posts </h3>
 <!-- BLOGPOSTS:START -->
 <!-- BLOGPOSTS:END -->
