@@ -31,4 +31,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshsinha17&theme=radical" alt="harshsinha17" /></p>
 <h3 align="left"> :books: Recent Blog Posts </h3>
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🌮 [How to Code and Publish Your First NPM Package🎖](https://harshsinha.hashnode.dev/how-to-code-and-publish-your-first-npm-package)<!-- BLOGPOSTS:END -->
